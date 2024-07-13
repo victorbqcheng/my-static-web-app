@@ -11,7 +11,7 @@ import { Component } from '@angular/core';
           with Angular. The shopping theme is used throughout the app.
         </p>
         <br />
-        <h2 class="title">Resources</h2>
+        <h2 class="title">Resourcesssss</h2>
         <ul>
           <li>
             <a href="https://github.com/MicrosoftDocs/mslearn-staticwebapp">
